@@ -1,0 +1,16 @@
+#first-header {
+    color: lightskyblue;
+    font-family: 'Roboto';
+}
+#second-header {
+    color: black;
+    background-color: mediumaquamarine;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    transition: 1s ease-out;
+    width: 400px;
+    height: 600px;
+}
